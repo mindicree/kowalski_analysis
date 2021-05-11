@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31630261321",
+    "project_id": "kowalskianalysis-dc3e1",
+    "storage_bucket": "kowalskianalysis-dc3e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31630261321:android:a031bdeadeb32d37551398",
+        "android_client_info": {
+          "package_name": "com.example.kowalskianalysis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31630261321-j2sadn5lau2pl0ntbd4sml94s46dvhlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC4c_R5MADslyoM91SsXZW4yPghxMTMs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31630261321-j2sadn5lau2pl0ntbd4sml94s46dvhlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
