@@ -60,6 +60,9 @@ The Android application was created in Android Studio. The source code for the a
 
 NOTE: While setup instructions are kept general, initial design was done on the Windows 10 operating system and were not tested on other operating systems. Installation process and mileage may vary
 
+## Other Files
+The "proposal_and_resume" PDF document contains the initial proposal of the project as well as information on the contributors of the project. The "research_and_review" PDF document contains a research paper and literature review on other similar projects. These documents were submitted to the Computer Vision course ITCS-4152 at the University of North Carolina at Charlotte. These documents are not required to use any of the material in the repository.
+
 ## Project Contributors
 The following people are responsible for the research, development, and maitenance of the project:
 - <b>Jonathan Helms</b> - Research, Data Collection
@@ -68,3 +71,5 @@ The following people are responsible for the research, development, and maitenan
 - <b>Ansh Sawant</b> - App Develpment
 - <b>Sarah Shealy</b> - Research, Data Collection
 - <b>Vernard Roy Ulrich, III</b> - Research, Data Collection
+
+All material within this repository was created by the contributors for the educational purposes of said contributors. Duplication, resubmission, or plagarism of the material is not allowed.
