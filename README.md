@@ -27,7 +27,7 @@ For distribution and use of the model, we have developed an Android application 
 For an in-depth look at the research and development process, as well as a demonstration of the app, please <a href="https://youtu.be/-UASz66WOuk" target="_blank"> click here for our video presentation. </a>
 
 ## Jupyter Notebooks
-The Jupyter Notebook file, "model_display" contains the code to load a dataset, create a model, train and validate the model, and export the model to a Keras model and a TensorFlowLite model. For viewing the notebook and using it, please follow these steps:
+The Jupyter Notebook file, "model_notebook," contains the code to load a dataset, create a model, train and validate the model, and export the model to a Keras model and a TensorFlowLite model. For viewing the notebook and using it, please follow these steps:
 
 ### Google Colab Setup
 1. Make sure you have Google Colab setup on your account
@@ -38,7 +38,7 @@ The Jupyter Notebook file, "model_display" contains the code to load a dataset, 
 
 ### Anaconda Setup
 1. Install <a href="https://www.anaconda.com/"> Anaconda </a> on your local computer
-2. Download the "model_display" notebook file to your computer.
+2. Download the "model_notebook" notebook file to your computer.
 3. <a href="https://drive.google.com/drive/folders/1q4sPCeBlGH_9cWTynWN5EuPelqXBUZ9f?usp=sharing" target="_blank">Download the dataset here</a>, or create/use your own
 4. Create an Anaconda environment with the following dependencies:
 - tensorflow
